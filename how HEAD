@@ -1,0 +1,54 @@
+[33mcommit 02f02d8ee0545074c90379f0a6d0d269574518b6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Gal <krajncgal1@gmail.com>
+Date:   Wed Apr 29 16:28:18 2026 +0200
+
+    Dodan gitignore
+
+[33mcommit bc9b392a2d5d2ec54e42c2becc8c4f618b606449[m
+Merge: 795132c 2a031d9
+Author: Gal <krajncgal1@gmail.com>
+Date:   Wed Apr 29 16:25:21 2026 +0200
+
+    Rešen konflikt
+
+[33mcommit 795132c088cc5b53f170da6e6603fa18f7a4de85[m
+Author: Gal <krajncgal1@gmail.com>
+Date:   Wed Apr 29 16:23:15 2026 +0200
+
+    Sprememba main
+
+[33mcommit 2a031d923898abfce629879e3b258c03fa243d26[m[33m ([m[1;32mveja1[m[33m)[m
+Author: Gal <krajncgal1@gmail.com>
+Date:   Wed Apr 29 16:23:06 2026 +0200
+
+    Sprememba veja1
+
+[33mcommit 40af9f0679f6695bb079cd335574178f6eb389c0[m
+Author: Gal <krajncgal1@gmail.com>
+Date:   Wed Apr 29 16:22:47 2026 +0200
+
+    Dodana konflikt datoteka
+
+[33mcommit 83aec422312c7c19b789d43bbf5119b0126a4ece[m
+Author: Gal <krajncgal1@gmail.com>
+Date:   Wed Apr 29 16:21:35 2026 +0200
+
+    Sprememba na main
+
+[33mcommit eae418313cb7381f4b5f87af6cdeb9a216400e46[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Gal <krajncgal1@gmail.com>
+Date:   Wed Apr 29 16:13:16 2026 +0200
+
+    Dodana datoteka
+
+[33mcommit 17cb777edaa2d6e230a4e267642e27f3e337c4be[m
+Author: Galkoo <154027102+Galkoo@users.noreply.github.com>
+Date:   Wed Apr 29 16:05:55 2026 +0200
+
+    Add files via upload
+
+[33mcommit 1fedba031c008ce2a406cac04982e90179d3a8f3[m
+Author: Galkoo <154027102+Galkoo@users.noreply.github.com>
+Date:   Wed Apr 29 16:05:02 2026 +0200
+
+    Initial commit
