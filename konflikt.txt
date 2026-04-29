@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 MAIN sprememba 
+=======
+VEJA1 sprememba 
+>>>>>>> veja1
